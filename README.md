@@ -1,7 +1,12 @@
 # Score-Keeper-App
-
-# License
-Copyright [2020]
+It Helps us to Keep score of two teams.
+## Pre-reqisites
+* Android SDK v29
+* Android Build Tools v29.0.3
+## Geeting Started
+Patches are encouraged, and may be submitted by forking this project and submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+## License
+Copyright 2020
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
