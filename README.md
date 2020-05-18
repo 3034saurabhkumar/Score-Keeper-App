@@ -3,8 +3,6 @@ It Helps us to Keep score of two teams.
 ## Pre-reqisites
 * Android SDK v29
 * Android Build Tools v29.0.3
-## Geeting Started
-Patches are encouraged, and may be submitted by forking this project and submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 ## License
 Copyright 2020
 
