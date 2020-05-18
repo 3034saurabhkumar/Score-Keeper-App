@@ -1,4 +1,4 @@
-# Score-Keeper-App
+# Score-Keeper App
 It Helps us to Keep score of two teams.
 ## Pre-reqisites
 * Android SDK v29
